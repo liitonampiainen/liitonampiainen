@@ -1,6 +1,14 @@
 <h2 align="center">My Tech Stack</h2>
 
 <div align="center">
+  
+![myTechStack](https://github.com/liitonampiainen/liitonampiainen/assets/6236768/156eee10-3e47-41e8-9487-5f9bf05acf42)
+
+</div>
+
+<!--
+
+<div align="center">
 <h3>Intermediate level (<2 years of experience)</h3>
   <p>| HTML | CSS | JavaScript | VS Code |</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" height="50"/>&nbsp;
@@ -38,7 +46,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity" height="50"/>&nbsp;
 </div>
-    
+
+-->
+
 <hr>
 
 <div align="right">
